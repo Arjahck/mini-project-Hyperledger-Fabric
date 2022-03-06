@@ -2,7 +2,7 @@ Step 1: Copy the car-part-certif folder into the fabric-samples folder of hyperl
 
 Step 2: Install all node modules in the javascrip folder 
 
-	npm install node
+	npm install 
 
 Step 3: To start the netowrk run startFabric.sh
 
